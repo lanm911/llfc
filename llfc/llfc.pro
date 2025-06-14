@@ -26,8 +26,7 @@ SOURCES += \
     login.cpp \
     main.cpp \
     mainwindow.cpp \
-    register.cpp \
-    singleton.cpp
+    register.cpp
 
 HEADERS += \
     global.h \
